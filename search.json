@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html",
+    "href": "docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html",
+    "title": "Quarto for Reproducible Medical Manuscripts",
+    "section": "",
+    "text": "Recently I gave a webinar for R/Medicine titled “Quarto for Reproducible Medical Manuscripts”. You can watch the video below or on the R Consortium website at https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts.1\nSome highlights from the webinar include:\nThe slides (also written in Quarto!) and their source code can be found at the links below:\nIn addition, the webinar featured a reproduction of a medical manuscript with Quarto.2 Materials from this reproduction can be found at the links below:\nReady to get started writing a manuscript with Quarto? Go to https://quarto.org/docs/manuscripts for more info and a step-by-step tutorial. Happy authoring!"
+  },
+  {
+    "objectID": "docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html#footnotes",
+    "href": "docs/blog/posts/2024-04-01-manuscripts-rmedicine/index.html#footnotes",
+    "title": "Quarto for Reproducible Medical Manuscripts",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHuge thanks to the R Consortium for hosting the webinar and making the recording available so quickly!↩︎\nHuge thanks to Peter Higgins who pointed me to this article as well as the R package that contains code from the article (medicaldata) and shared some starter code with me.↩︎\nThe Binder instance takes a few minutes to launch, you can leave that running in a tab while you browse the rest of the manuscript in another tab.↩︎"
+  },
+  {
     "objectID": "docs/blog/posts/2023-05-22-quarto-for-academics/index.html",
     "href": "docs/blog/posts/2023-05-22-quarto-for-academics/index.html",
     "title": "Quarto for Academics",
@@ -12,5 +26,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "docs/blog/posts/2024-05-28-conf-workshops/index.html",
+    "href": "docs/blog/posts/2024-05-28-conf-workshops/index.html",
+    "title": "Quarto workshops at posit::conf(2024)",
+    "section": "",
+    "text": "Join us for posit::conf(2024) in Seattle! On August 12, we’re hosting a day of workshops featuring three dedicated to Quarto. Check out the options below and find the workshop that’s just right for you. Already found your ideal Quarto workshop? Register today!\nIntroduction to Quarto\nBuild-a-Dashboard Workshop (with Quarto, R, and/or Python)\nQuarto Websites"
+  },
+  {
+    "objectID": "docs/blog/posts/2024-05-28-conf-workshops/index.html#introduction-to-quarto",
+    "href": "docs/blog/posts/2024-05-28-conf-workshops/index.html#introduction-to-quarto",
+    "title": "Quarto workshops at posit::conf(2024)",
+    "section": "Introduction to Quarto",
+    "text": "Introduction to Quarto\nThis workshop will prepare you to author a rich array of documents in Quarto, the next generation of R Markdown. Quarto is an open-source scientific and technical publishing system that offers multilingual programming language support to create dynamic and static documents, books, presentations, blogs, and other online resources.\nThis workshop focuses on single documents. You will learn to create static documents, add interactivity to them with Shiny and HTML widgets, or steer them toward sophisticated scientific documents.\nIn the afternoon, you’ll use the same authoring approaches to create slide presentations in various formats, such as reveal.js, Beamer, and PPTX.\nThis workshop is for you if you:\n\nHave a basic knowledge of how to use the RStudio IDE,\nHave some familiarity with Markdown, or\nAre excited to author flexible single documents like technical reports and slide presentations."
+  },
+  {
+    "objectID": "docs/blog/posts/2024-05-28-conf-workshops/index.html#build-a-dashboard-workshop-with-quarto-r-andor-python",
+    "href": "docs/blog/posts/2024-05-28-conf-workshops/index.html#build-a-dashboard-workshop-with-quarto-r-andor-python",
+    "title": "Quarto workshops at posit::conf(2024)",
+    "section": "Build-a-Dashboard Workshop (with Quarto, R, and/or Python)",
+    "text": "Build-a-Dashboard Workshop (with Quarto, R, and/or Python)\nYou already analyze and summarize your data in computational notebooks with R and/or Python. What’s next? \nYou can share your insights or allow others to make their own conclusions in eye-catching dashboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including static graphics (ggplot2, Matplotlib, Seaborn, etc.), interactive widgets (Plotly, Leaflet, Jupyter Widgets, htmlwidgets, etc.), tabular data, value boxes, text annotations, and more. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes.\nAnd importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.) or any notebook editor (JupyterLab, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and deploying them as static web pages (with no special server required), as well as with a Shiny Server on the backend for enhanced interactivity.\nThis workshop is for you if you:\n\nDo data analysis in computational notebooks,\nShare your results with your audience in static or interactive dashboards and\nWant to improve the design, user interface, and experience of your dashboards."
+  },
+  {
+    "objectID": "docs/blog/posts/2024-05-28-conf-workshops/index.html#quarto-websites",
+    "href": "docs/blog/posts/2024-05-28-conf-workshops/index.html#quarto-websites",
+    "title": "Quarto workshops at posit::conf(2024)",
+    "section": "Quarto Websites",
+    "text": "Quarto Websites\nDo you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization’s brand? If you’ve used Quarto to produce a document, you’ve already got the technical skills to create a Quarto website. In this workshop, you’ll learn everything else you need to build a website and customize its appearance.\nYou’ll get a running start by using a template we’ve designed to be functional and attractive but also act as a guide for your learning. Then you’ll:\n\nAdd pages and navigation, and learn best practices for structuring your content.\nMaster the basics of SCSS and CSS and how they apply to Quarto websites to customize your site’s visual appearance.\nUse listings, a special kind of page, to showcase related content like blog posts, projects, or talks.\n\nBy the end of the workshop, you’ll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.\nWe’ll assume you’ve used Quarto to produce documents, but we won’t assume you have any HTML, CSS/SCSS, or Git/GitHub experience, nor will we assume any particular programming language (R, Python, etc.) or level of programming experience.\nThis workshop is for you if you:\n\nHave used Quarto to generate documents (e.g., HTML, PDF, MS Word, etc.)\nAre comfortable editing plain text documents (e.g., `.qmd`) in your IDE (e.g., RStudio, Visual Studio Code, etc.) and\nWant to walk away with your own personal website."
+  },
+  {
+    "objectID": "docs/blog/posts/2024-05-28-conf-workshops/index.html#learn-more-about-positconf2024",
+    "href": "docs/blog/posts/2024-05-28-conf-workshops/index.html#learn-more-about-positconf2024",
+    "title": "Quarto workshops at posit::conf(2024)",
+    "section": "Learn more about posit::conf(2024)",
+    "text": "Learn more about posit::conf(2024)\nWant to explore the complete catalog of posit::conf(2024) workshops and talks?\n\nWorkshops on August 12: Head over to our workshop listing to discover detailed information about the courses and instructors.\nTalks on August 13 and August 14: Peruse the conference agenda.\n\nTip: For a quick view of all Quarto talks, filter for “Quarto” under topics.\n\n\nReady to secure your spot? Visit the conference website for comprehensive details on pricing and the agenda, and register today!"
   }
 ]
