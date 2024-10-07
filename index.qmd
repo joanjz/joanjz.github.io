@@ -255,7 +255,7 @@ Generate dynamic output using Python, R, Julia, and Observable. Create reproduci
 :::
 
 ::: {.feature}
-### Emergency Department (ED)
+### Emergency Department
 Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
 
 ::: {.learn-more}
@@ -264,7 +264,7 @@ Publish high-quality articles, reports, presentations, websites, and books in HT
 :::
 
 ::: {.feature}
-### Blood Bank (BB)
+### Blood Bank 
 Pandoc markdown has excellent support for LaTeX equations and citations. Quarto adds extensions for cross-references, figure panels, callouts, advanced page layout, and more.
 
 ::: {.learn-more}
@@ -291,7 +291,7 @@ Engage readers by adding interactive data exploration to your documents using Ju
 :::
 
 ::: {.feature}
-### IP & OPD
+### Inpatient & Outpatient
 Publish collections of documents as a blog or full website. Create books and manuscripts in both print formats (PDF and MS Word) and online formats (HTML and ePub).
 
 ::: {.learn-more}

@@ -18,6 +18,8 @@ website:
         href: index.qmd
       - text: "Gallery"
         href: docs/gallery/index.qmd
+      - text: "Blog"
+        href: docs/blog/index.qmd
      
       
 
