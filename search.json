@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "docs/blog/posts/2023-05-22-quarto-for-academics/index.html",
+    "href": "docs/blog/posts/2023-05-22-quarto-for-academics/index.html",
+    "title": "Quarto for Academics",
+    "section": "",
+    "text": "Quarto offers a myriad of features that are especially useful for academics, as educators and as researchers. These range from chunk options that enable automatic linking of code to documentation, to article templates for manuscript submission to multiple journals. The following video walks you through some of these features.\n\nSelect highlights include:\n\nLinking to documentation from code with code-link.\nInformative YAML errors and YAML completion.\nCreating Quarto slides with revealjs.\nPDF export of HTML slides.\nAnnotating slides with chalkboard.\nAdvancing slides for your audience with multiplex.\nHighlighting code with code-line-numbers.\nCustomizing output location with output-location.\nShowing code chunk fences with echo: fenced.\nCode annotation.\nAuthoring manuscripts with Quarto journal templates.\nInserting citations from Zotero or from a DOI with the RStudio Visual Editor.\n\nIf you would like to follow along as you watch, you can find the source code for everything created in the video in this GitHub repository."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",

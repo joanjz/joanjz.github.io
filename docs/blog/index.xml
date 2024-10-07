@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Taif Children&#39;s Hospital</title>
+<link>https://quarto.org/docs/blog/</link>
+<atom:link href="https://quarto.org/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://quarto.org/quarto-blog-v2.png</url>
+<title>Taif Children&#39;s Hospital</title>
+<link>https://quarto.org/docs/blog/</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Mon, 22 May 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto for Academics</title>
+  <dc:creator>Joan Jimenez</dc:creator>
+  <link>https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Quarto offers a myriad of features that are especially useful for academics, as educators and as researchers. These range from chunk options that enable automatic linking of code to documentation, to article templates for manuscript submission to multiple journals. The following video walks you through some of these features.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/EbAAmrB0luA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Select highlights include:</p>
+<ul>
+<li>Linking to documentation from code with <a href=""><code>code-link</code></a>.</li>
+<li>Informative YAML errors and YAML completion.</li>
+<li>Creating Quarto slides with <a href="">revealjs</a>.</li>
+<li><a href="">PDF export</a> of HTML slides.</li>
+<li>Annotating slides with <a href=""><code>chalkboard</code></a>.</li>
+<li>Advancing slides for your audience with <a href=""><code>multiplex</code></a>.</li>
+<li>Highlighting code with <a href=""><code>code-line-numbers</code></a>.</li>
+<li>Customizing output location with <a href=""><code>output-location</code></a>.</li>
+<li>Showing code chunk fences with <a href=""><code>echo: fenced</code></a>.</li>
+<li><a href="">Code annotation</a>.</li>
+<li>Authoring manuscripts with Quarto <a href="">journal templates</a>.</li>
+<li><a href="">Inserting citations</a> from Zotero or from a DOI with the <a href="">RStudio Visual Editor</a>.</li>
+</ul>
+<p>If you would like to follow along as you watch, you can find the source code for everything created in the video in <a href="https://github.com/mine-cetinkaya-rundel/quarto-for-academics">this GitHub repository</a>.</p>
+
+
+
+ ]]></description>
+  <category>Learn</category>
+  <guid>https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/</guid>
+  <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/quarto-for-academics-video-cover.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
+</channel>
+</rss>
