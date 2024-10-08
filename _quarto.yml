@@ -1,45 +1,15 @@
-project:
-  type: website
-
-website:
-  title: "Taif Children's Hospital"
-  image: "quarto-dark-bg.jpeg"
-  favicon: "favicon.png"
-  site-url: https://quarto.org
-  
-  navbar:
-    background: light
-    logo: quarto.png
-    logo-alt: "Quarto logo."
-    title: false
-    collapse-below: lg
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Gallery"
-        href: docs/gallery/index.qmd
-      - text: "Blog"
-        href: docs/blog/index.qmd
-     
-      
-
 format:
   html:
-    toc: true
+    toc: true  # Enables the table of contents
     theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
-    code-copy: true
-    code-overflow: wrap
-    css: styles.css
-    include-after-body: js.html
+      light: [cosmo, theme.scss]  # Light theme customization
+      dark: [cosmo, theme-dark.scss]  # Dark theme customization
+    code-copy: true  # Enables copy button for code blocks
+    code-overflow: wrap  # Wraps long code lines
+    css: styles.css  # Custom CSS file
+    include-after-body: js.html  # Custom JS to include after body
     grid:
-      sidebar-width: 250px
-      body-width: 900px
-      margin-width: 300px
-website:
-  search: false
-
-
-
-
+      sidebar-width: 250px  # Width of the sidebar
+      body-width: 900px  # Width of the main body content
+      margin-width: 300px  # Width of the page margins
+    search: false  # Disables the search button
