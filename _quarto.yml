@@ -26,7 +26,6 @@ format:
     toc: true  # Enables table of contents
     theme:
       light: [cosmo, theme.scss]  # Light theme customization
-      dark: [cosmo, theme-dark.scss]  # Dark theme customization
     code-copy: true  # Enables code copy button
     code-overflow: wrap  # Wraps long code lines
     css: styles.css  # Custom CSS file

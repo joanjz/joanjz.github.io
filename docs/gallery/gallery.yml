@@ -5,7 +5,7 @@
   tiles:
     - title: HTML
       subtitle: for web publishing
-      href: https://quarto-dev.github.io/quarto-gallery/articles/html/html.html
+      href: https://joanjz.github.io/docs/report/er.html
       code: https://github.com/quarto-dev/quarto-gallery/blob/main/articles/html/html.qmd
       thumbnail: articles/articles-html.png
     - title: PDF
