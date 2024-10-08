@@ -8,7 +8,6 @@ listing:
   filter-ui: false
   categories: true
   feed: true
-css: index.css
 page-layout: full
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body

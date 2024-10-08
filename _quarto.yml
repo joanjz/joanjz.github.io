@@ -28,6 +28,7 @@ format:
     toc: true
     theme:
       light: [cosmo, theme.scss]
+      dark: darkly
     code-copy: true
     code-overflow: wrap
     css: styles.css
