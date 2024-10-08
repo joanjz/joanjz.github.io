@@ -25,6 +25,7 @@
 
 
 
+
 <p>Join us for posit::conf(2024) in Seattle! On August 12, we’re hosting a day of workshops featuring three dedicated to Quarto. Check out the options below and find the workshop that’s just right for you. Already found your ideal Quarto workshop? <a href="https://posit.co/conference/">Register today</a>!</p>
 <p><strong>Introduction to Quarto</strong></p>
 <ul>
@@ -114,6 +115,7 @@
 
 
 
+
 <p>Recently I gave a webinar for R/Medicine titled “Quarto for Reproducible Medical Manuscripts”. You can watch the video below or on the R Consortium website at <a href="https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts" class="uri">https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts</a>.<sup>1</sup></p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NK1onTLcgY4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Some highlights from the webinar include:</p>
@@ -171,6 +173,7 @@
   <dc:creator>Joan Jimenez</dc:creator>
   <link>https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/</link>
   <description><![CDATA[ 
+
 
 
 
