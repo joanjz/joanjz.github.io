@@ -9,8 +9,8 @@ website:
   search: false
   navbar:
     background: light
-    logo: quarto.png  # Ensure this image is correctly placed
-    logo-alt: "Quarto logo."
+    logo: logo_text.svg  # Ensure this image is correctly placed
+    logo-alt: "Taif Children's hospital logo."
     title: false
     collapse-below: lg
     left:
