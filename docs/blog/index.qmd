@@ -1,16 +1,16 @@
 ---
-title: Quarto Blog
-subtitle: News, tips, and commentary about all things Quarto
+title: Report
+subtitle: Contains all domain reports
 listing:
   sort: "date desc"
   contents: "posts/*/index.qmd"
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   categories: true
   feed: true
 page-layout: full
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body
-search: false
+search: true
 image: quarto-blog-v2.png
 ---
