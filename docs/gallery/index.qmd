@@ -27,12 +27,10 @@ Gallery
 
 Quarto can produce a wide variety of output formats. Here are some examples:
 
--   [Articles & Reports](#articles-reports)
--   [Presentations](#presentations)
 -   [Dashboards](#dashboards)
--   [Websites](#websites)
--   [Books](#books)
--   [Interactive Docs](#interactive-docs)
+-   [Reports](#articles-reports)
+-   [Interactive Documents](#interactive-docs)
+-   [Presentations](#presentations)
 :::
 
 ```{r}
